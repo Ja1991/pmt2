@@ -59,7 +59,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#555459', end
 }
 
 .card .table tbody td:first-child, .card .table thead th:first-child{padding:8px;}
-
+#tabledetails tbody td {border-bottom: 1px solid #434857; border-left: 0px; border-right: 0px; border-top: 0px;}
+#tabledetails tbody td:first-child{}
 .sidebar .nav, body > .navbar-collapse .nav{margin-top: 0px}
 .navbar .navbar-brand{margin:0px;padding: 0px; padding-top: 20px; margin-top:0px;margin-left: 10px}
 .navbar-brand,
